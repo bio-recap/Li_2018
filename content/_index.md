@@ -1,6 +1,6 @@
 +++
 archetype = "home"
-title = "Lu et al., 2018"
+title = "Li et al., 2018"
 +++
 ---
 
